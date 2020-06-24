@@ -56,5 +56,5 @@ sass:
   sass_dir: _sass
   style: compressed
 
-plugins:
+plugins_dir:
  - jekyll-seo-tag

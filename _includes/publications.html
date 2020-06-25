@@ -1,0 +1,6 @@
+<div class="container publications-container">
+  <h3>{{ site.awards_title | default: "Publications" }}</h3>
+  {% for publication in site.data.publications %}
+    {% include {{ publication.layout | default: 'left' | append: ".html" }} item=publication %}
+  {% endfor %}
+</div>

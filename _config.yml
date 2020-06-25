@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Footer
 footer_show_references: false
-
+# darkmode: true
 # Build settings
 # remote_theme: sproogen/resume-theme
 
@@ -63,3 +63,5 @@ sass:
 
 plugins_dir:
  - jekyll-seo-tag
+
+gtag: UA-149430375-1

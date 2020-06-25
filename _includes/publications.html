@@ -1,6 +1,32 @@
 <div class="container publications-container">
-  <h3>{{ site.awards_title | default: "Publications" }}</h3>
+  <h3>{{ site.publication_title | default: "Publications" }}</h3>
   {% for publication in site.data.publications %}
-    {% include {{ publication.layout | default: 'left' | append: ".html" }} item=publication %}
+  <div class="row clearfix layout layout-top-middle">
+    <div class="col-xs-12 col-print-12 details"><h4><i class="far fa-file-alt pub-icon" ></i>{{ publication.title }}</h4></p>
+      <p><i class="fa fa-users" aria-hidden="true"></i>{{publication.authors}}</p>
+      {%- if publication.pdf | publication.project | publication.video -%}
+      <div class="btn-links">
+        {%- if publication.pdf -%}
+        <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href= {{publication.pdf}} target="_blank" rel="noopener">
+          PDF
+        </a>
+        {%- endif -%} 
+
+        {%- if publication.project -%}
+        <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{publication.project}}" target="_blank" rel="noopener">
+          Project
+        </a>
+        {%- endif -%} 
+
+        {%- if publication.video -%}
+        <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{publication.video}}" target="_blank" rel="noopener">
+          Video
+       </a></div>
+       {%- endif -%} 
+       {%- endif -%} 
+   
+    </div>
+  </div>
+    <!-- {% include {{ publication.layout | default: 'left' | append: ".html" }} item=publication %} -->
   {% endfor %}
 </div>

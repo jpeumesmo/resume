@@ -39,9 +39,19 @@
   # quote: >
     # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    In this project, we aim to create a shared market list. We create an hybrid web app, using technologuies as <mark><a href="https://ionicframework.com/"><font color="white">Ionic</font></a></mark> a popular Cross-platform framework for app development and <mark><a href="https://firebase.google.com/?hl=pt-br"><font color="white">Firebase</font></a></mark> a popular real time database with a easy to use API. The web page still online on the <a href="https://lista-do-joao.firebaseapp.com/"><font color="#333">link</font></a>
+    In this project, we aim to use an agent in an unknown environment. The agent will navigate on the environment autonomously and create a map of what it has seen. In this project, we use a popular framework for robotics applications <mark><a href="https://www.ros.org/"><font color="white">ROS</font></a></mark>.
 
 - layout: left
+  name: Robots Cooperation
+  github: https://github.com/jpeumesmo/robotics_cooperation
+  youtube: https://www.youtube.com/embed/Ldtu6AcKm1s
+  # image: assets/projects/web0.png
+  # quote: >
+    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    In this project, we explore the capability of multi-agents in an unknown environment, to navigate autonomously on the environment the agent should know how to localize itself in the environment, and also to avoid obstacles it should be able to percept the environment. In this project we use two agents one knows how to localize itself in the environment and the other one can percept the environment, together they can navigate in the environment autonomously avoiding obstacles. In this project, we use a popular framework for robotics applications <mark><a href="https://www.ros.org/"><font color="white">ROS</font></a></mark>.
+    
+- layout: right
   name: Friends with 4 legs
   # link: https://github.com/jpeumesmo/amigo4patas
   github: https://github.com/jpeumesmo/amigo4patas
@@ -53,14 +63,14 @@
     In this project, we create an app using <mark><a href="https://ionicframework.com/"><font color="white">Ionic</font></a></mark> a popular Cross-platform framework for app development. The proposal of the app was to allow people to report lost animals or animals they have seen on the street, this should make easier the process to find a lost animal, or to adopt an abandoned animal. The app allows the user to report information about the animal such as photo, GPS position, date, etc.
 
     
-- layout: right
+- layout: left
   name: Shared Market List Web App
   link: https://lista-do-joao.firebaseapp.com/
-  github: https://github.com/jpeumesmo/pratica_aula/settings
+  github: https://github.com/jpeumesmo/pratica_aula
   # youtube: https://youtu.be/r5r-jp1mUns
   image: assets/projects/web0.png
   # quote: >
     # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    In this project, we aim to create a shared market list. We create an hybrid web app, using technologuies as <mark><a href="https://ionicframework.com/"><font color="white">Ionic</font></a></mark> a popular Cross-platform framework for app development and <mark><a href="https://firebase.google.com/?hl=pt-br"><font color="white">Firebase</font></a></mark> a popular real time database with a easy to use API. The web page still online on the <a href="https://lista-do-joao.firebaseapp.com/"><font color="#333">link</font></a>
+    In this project, we aim to create a shared market list. We create a hybrid web app, using technologies as <mark><a href="https://ionicframework.com/"><font color="white">Ionic</font></a></mark> a popular Cross-platform framework for app development and <mark><a href="https://firebase.google.com/?hl=pt-br"><font color="white">Firebase</font></a></mark> a popular real-time database with an easy to use API. The web page still online on the <a href="https://lista-do-joao.firebaseapp.com/"><font color="#333">link</font></a>
 

@@ -7,7 +7,7 @@ name: João Pedro
 full_name: João Pedro Moreira Ferreira
 title: Personal
 position: Computer Vision M.Sc Student
-email: joaopmoferreira@gmail.com
+# email: joaopmoferreira@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
 # Social links
@@ -16,6 +16,7 @@ scholar: citations?user=QacWVbEAAAAJ&hl=pt-BR&oi=sra
 lattes: 0866273910879686
 github_username:  jpeumesmo
 linkedin_username: jo%C3%A3o-pedro-moreira-ferreira-165a91154
+research_gate: Joao_Ferreira144
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll

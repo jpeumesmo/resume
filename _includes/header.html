@@ -25,10 +25,19 @@
         {%- if site.lattes -%}
           <li>
             <a target="_blank" href="http://lattes.cnpq.br/{{site.lattes}}"  class="button button--sacnite button--round-l">
+              <i class="ai ai-researchgate" title="Research Gate link"></i>
+            </a>
+          </li>
+        {%- endif -%}
+      
+        {%- if site.research_gate -%}
+          <li>
+            <a target="_blank" href=https://www.researchgate.net/profile/{{site.research_gate}}"  class="button button--sacnite button--round-l">
               <i class="ai ai-lattes" title="Lattes link"></i>
             </a>
           </li>
         {%- endif -%}
+
         {%- if site.dribbble_username -%}
           <li>
             <a target="_blank" href="https://dribbble.com/{{ site.dribbble_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">

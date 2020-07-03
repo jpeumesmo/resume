@@ -29,7 +29,7 @@ linkedin_username: jo%C3%A3o-pedro-moreira-ferreira-165a91154
 # about_profile_image: images/profile2.jpg
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's João Pedro and I'm a Master student in computer vision and machine learning. I'm currently working on <mark>GAN's</mark> and <mark>GCN's</mark>.  Also, work as a developer during graduation solving issues on web systems and infrastructure of the distance education nucleus of the university.  During my career, I have worked with different teams on several projects and gain experience in teamwork and Agile software development.
+  Hi, my name is João Pedro and I am a Master's student in Computer Vision and Machine Learning. I'm currently working on <mark><a href="https://en.wikipedia.org/wiki/Generative_adversarial_network"><font color="white">GAN's</font></a></mark> and <mark><a href="https://tkipf.github.io/graph-convolutional-networks/"><font color="white">GCN's</font></a></mark>. I worked as a developer during undergraduate degree solving issues on web systems and the infrastructure of the distance education nucleus of the university. During my career, I have worked with different teams on several projects and it has given me experience in teamwork and Agile software development.
 
   I am most skilled in: <mark>Computer Vision</mark> and <mark>Machine Learning</mark>
   

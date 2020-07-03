@@ -6,9 +6,21 @@
   quote: >
     This is project was Bachelor final project.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    In this project we aim to automatically detect lanes from a video, the algorithm should run in real-time, so it could be used an onboard computer with a camera to assist the driver, for example. In this project, <a href="https://en.wikipedia.org/wiki/Digital_image_processing"><font color="#333">Digital Image Processing</font></a> and <a href="https://en.wikipedia.org/wiki/Computer_vision"><font color="#333">Computer Vision</font></a> techniques were used. The project used the open-source library for Computer Vision <mark><a href="https://opencv.org/"><font color="white">OpenCV</font></a></mark>.
+
 
 - layout: right
+  name: CNN's and ANN's PyTorch example
+  # link: https://github.com/jpeumesmo/IC_2
+  github: https://github.com/jpeumesmo/pytorch_mnist
+  # youtube: https://youtu.be/r5r-jp1mUns
+  image: assets/projects/pytorch.png
+  # quote: >
+    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    This project was part of some lectures I gave for my Master's advisor during my course. The lectures were about <a href="https://en.wikipedia.org/wiki/Machine_learning"><font color="#333">Machine Learning</font></a> in general, in this set of codes, I used the popular Machine Learning framework <mark><a href="https://pytorch.org/"><font color="white">PyTorch</font></a></mark>, also I configure <mark><a href="https://www.tensorflow.org/tensorboard?hl=pt-br"><font color="white">Tensorboard</font></a></mark> to work with the codes, which makes it easier to observe the evolution of the models during train phase. There are codes for <a href="https://en.wikipedia.org/wiki/Artificial_neural_network"><font color="#333">Artificial Neural Networks</font></a> and <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network"><font color="#333">Convolutional Neural Networks</font></a> 
+
+- layout: left
   name: An RGB-based Gesture Framework for Virtual Reality Environments
   # link: https://github.com/jpeumesmo/IC_2
   github: https://github.com/jpeumesmo/IC_2
@@ -17,7 +29,17 @@
   # quote: >
     # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    In this project, we aim to create a framework based on RGB images to work as an interface between human gestures and a virtual environment. The project detects and tracks human hands, with that information is possible to understand some human gestures and use them to control a virtual environment. In this project, <a href="https://en.wikipedia.org/wiki/Digital_image_processing"><font color="#333">Digital Image Processing</font></a> and <a href="https://en.wikipedia.org/wiki/Computer_vision"><font color="#333">Computer Vision</font></a> techniques were used. The project used the open-source library for Computer Vision <mark><a href="https://opencv.org/"><font color="white">OpenCV</font></a></mark>.
+
+- layout: right
+  name: Occupancy Grid
+  github: https://github.com/jpeumesmo/occupancy_grid
+  youtube: https://www.youtube.com/embed/A__Ti7U3C5w
+  # image: assets/projects/web0.png
+  # quote: >
+    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    In this project, we aim to create a shared market list. We create an hybrid web app, using technologuies as <mark><a href="https://ionicframework.com/"><font color="white">Ionic</font></a></mark> a popular Cross-platform framework for app development and <mark><a href="https://firebase.google.com/?hl=pt-br"><font color="white">Firebase</font></a></mark> a popular real time database with a easy to use API. The web page still online on the <a href="https://lista-do-joao.firebaseapp.com/"><font color="#333">link</font></a>
 
 - layout: left
   name: Friends with 4 legs
@@ -25,7 +47,20 @@
   github: https://github.com/jpeumesmo/amigo4patas
   # youtube: https://youtu.be/r5r-jp1mUns
   image: assets/projects/amigo4patas.jpeg
+  quote: >
+    This project was part of a course during my undergraduate degree
+  description: | # this will include new lines to allow paragraphs
+    In this project, we create an app using <mark><a href="https://ionicframework.com/"><font color="white">Ionic</font></a></mark> a popular Cross-platform framework for app development. The proposal of the app was to allow people to report lost animals or animals they have seen on the street, this should make easier the process to find a lost animal, or to adopt an abandoned animal. The app allows the user to report information about the animal such as photo, GPS position, date, etc.
+
+    
+- layout: right
+  name: Shared Market List Web App
+  link: https://lista-do-joao.firebaseapp.com/
+  github: https://github.com/jpeumesmo/pratica_aula/settings
+  # youtube: https://youtu.be/r5r-jp1mUns
+  image: assets/projects/web0.png
   # quote: >
     # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    In this project, we aim to create a shared market list. We create an hybrid web app, using technologuies as <mark><a href="https://ionicframework.com/"><font color="white">Ionic</font></a></mark> a popular Cross-platform framework for app development and <mark><a href="https://firebase.google.com/?hl=pt-br"><font color="white">Firebase</font></a></mark> a popular real time database with a easy to use API. The web page still online on the <a href="https://lista-do-joao.firebaseapp.com/"><font color="#333">link</font></a>
+

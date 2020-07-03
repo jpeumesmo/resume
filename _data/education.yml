@@ -3,16 +3,18 @@
   dates: 2018 - nowadays
   qualification: M.Sc Computer Science
   image: assets/education/ufmg.png
+  link: https://ufmg.br/
   quote: >
     The Universidade Federal de Minas Gerais (UFMG) is a Brazilian federal public higher education institution, headquartered in the city of Belo Horizonte, in the state of Minas Gerais. It is the largest university in the state of Minas Gerais and has campuses in the cities of Belo Horizonte, Tiradentes and Montes Claros.
   description: | # this will include new lines to allow paragraphs
-    I am currently finishing my Master's Degree at UFMG. The department of computer science at university is one of the most prestigious department in Brazil. I have developed my skills in machine learning and computer vision during my master's course, and have the opportunity to work in a research and development project with Petrobras as a partner, the biggest Brazilian company. Also, a help my colleagues with the laboratory infrastructure, working on the maintenance and repair of several workstations, servers, and systems of distributed file systems through the network.
+    I am currently finishing my Master's Degree at UFMG. The department of computer science at university is one of the most prestigious department in Latin America. I have developed my skills in Machine Learning and Computer Vision during my master's course, and had the opportunity to work in a research and development project funded by Petrobras, the biggest Brazilian oil company. Also, I contributed to the laboratory infrastructure, working on the maintenance and repair of several workstations, servers, and systems of distributed file systems through the network.
 
 - layout: left
   name: Universidade Federal de São João del-Rei
   dates: 2014 - 2018
   qualification: B.Sc Computer Science
   image: assets/education/ufsj.png
+  link: https://www.ufsj.edu.br/
   quote: >
     The Universidade Federal de São João del-Rei (UFSJ) is a federal public higher education institution, headquartered in the city of São João del-Rei, with educational units in Ouro Branco, Divinópolis and Sete Lagoas, all located in the state of Minas Gerais.
   description: | # this will include new lines to allow paragraphs

@@ -6,3 +6,35 @@
   video: https://www.youtube.com/watch?v=d2c3cp-I-u4
   # award: Honorable Mention
   # award: Best Paper
+
+- layout: top-middle
+  title: An RGB-Based Gesture Framework for Virtual Reality Environments
+  authors: João PM Ferreira, Diego RC Dias, Marcelo P Guimarães, Marcos AM Laia
+  pdf: https://www.researchgate.net/profile/Diego_Roberto_Dias/publication/326161348_An_RGB-Based_Gesture_Framework_for_Virtual_Reality_Environments/links/5bae5ee7299bf13e60549536/An-RGB-Based-Gesture-Framework-for-Virtual-Reality-Environments.pdf
+  # project: https://www.verlab.dcc.ufmg.br/portfolio-item/retargeting-motion/
+  # video: https://www.youtube.com/watch?v=d2c3cp-I-u4
+  # award: Honorable Mention
+  # award: Best Paper
+
+- layout: top-middle
+  title: Uma Abordagem para Detecção Gestos Voltada a Ambientes de Realidade Virtual e Aumentada
+  authors: Joao Pedro Moreira Ferreira, Marcos A. M. Laia, Diego Roberto Colombo Dias
+  pdf: https://www.researchgate.net/publication/342644469_Uma_Abordagem_para_Deteccao_Gestos_Voltada_a_Ambientes_de_Realidade_Virtual_e_Aumentada
+  # project: https://www.verlab.dcc.ufmg.br/portfolio-item/retargeting-motion/
+  # video: https://www.youtube.com/watch?v=d2c3cp-I-u4
+  award: Honorable Mention
+  # award: Best Paper
+
+- layout: top-middle
+  title: The Framework of Copista An OMR System for Historical Music Collection Recovery
+  authors: Marcos Laia, Flávio Schiavoni, Daniel Madeira, Dárlinton Carvalho, João Pedro Moreira, Júlio Resende, Rodrigo Ferreira
+  pdf: https://www.researchgate.net/profile/Flavio_Schiavoni/publication/319860689_The_Framework_of_Copista_An_OMR_System_for_Historical_Music_Collection_Recovery/links/5ca21c4192851cf0aea628a4/The-Framework-of-Copista-An-OMR-System-for-Historical-Music-Collection-Recovery.pdf
+
+- layout: top-middle
+  title: Desenvolvimento de Instrumentos Musicais Digitais a partir de dispositivos ubíquos
+  authors: Gabriel Lopes Rocha, Avner Maximiliano, João Pedro Moreira Ferreira, Flávio Luiz Schiavoni
+  pdf: https://alice.dcomp.ufsj.edu.br/papers/2018RochaPauloMoreiraSchiavoni.pdf
+  # project: https://www.verlab.dcc.ufmg.br/portfolio-item/retargeting-motion/
+  # video: https://www.youtube.com/watch?v=d2c3cp-I-u4
+  # award: Honorable Mention
+  # award: Best Paper

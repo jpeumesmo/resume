@@ -7,7 +7,7 @@
   quote: >
     Work as developer in a research and development project with Petrobras as a partner.
   description: | # this will include new lines to allow paragraphs
-    I work as a developer in a big project funded by Petrobras, the biggest oil Brazilian oil company. In this project, we aim to construct a solution for Petrobras to inspect and monitor their constructions. During the project, I worked with several techniques and technologies, for example, <mark><a href="https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping"><font color="white">SLAM</font></a></mark> and, got touch with the open-source library <mark><a href="https://pointclouds.org/"><font color="white">PCL</font></a></mark> for point cloud processing.
+    I work as a developer in a big project funded by Petrobras, the biggest Brazilian oil company. In this project, we aim to construct a solution for Petrobras to inspect and monitor their constructions. During the project, I worked with several techniques and technologies, for example, <mark><a href="https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping"><font color="white">SLAM</font></a></mark> and, got touch with the open-source library <mark><a href="https://pointclouds.org/"><font color="white">PCL</font></a></mark> for point cloud processing.
 
 - layout: left
   company: Núcleo de Educação a Distância

@@ -1,10 +1,10 @@
 <div class="container header-contianer">
   <div class="row">
-    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-8 header-left">
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-7 header-left">
       <h1>{{ site.full_name | escape }}</h1>
       <h2>{{ site.position | escape }}</h2>
     </div>
-    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 header-right">
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-5 header-right">
       <ul class="icons no-print">
         {%- if site.github_username -%}
           <li>
@@ -21,23 +21,23 @@
             </a>
           </li>
         {%- endif -%} 
+       
+        {%- if site.research_gate -%}
+        <li>
+          <a target="_blank" href=https://www.researchgate.net/profile/{{site.research_gate}}"  class="button button--sacnite button--round-l">
+            <i class="ai ai-researchgate" title="Lattes link"></i>
+          </a>
+        </li>
+        {%- endif -%}
 
         {%- if site.lattes -%}
           <li>
             <a target="_blank" href="http://lattes.cnpq.br/{{site.lattes}}"  class="button button--sacnite button--round-l">
-              <i class="ai ai-researchgate" title="Research Gate link"></i>
+              <i class="ai ai-lattes" title="Research Gate link"></i>
             </a>
           </li>
         {%- endif -%}
       
-        {%- if site.research_gate -%}
-          <li>
-            <a target="_blank" href=https://www.researchgate.net/profile/{{site.research_gate}}"  class="button button--sacnite button--round-l">
-              <i class="ai ai-lattes" title="Lattes link"></i>
-            </a>
-          </li>
-        {%- endif -%}
-
         {%- if site.dribbble_username -%}
           <li>
             <a target="_blank" href="https://dribbble.com/{{ site.dribbble_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
@@ -127,6 +127,13 @@
           <li>
             <a target="_blank" href="https://orcid.org/{{ site.orcid_username | escape }}" class="button button--sacnite button--round-l">
               <i class="fab fa-orcid" title="ORCiD link"></i>
+            </a>
+          </li>
+        {%- endif -%}
+        {%- if site.cv -%}
+          <li>
+            <a target="_blank" href="{{site.cv}}"  class="button button--sacnite button--round-l">
+              <i class="ai ai-cv" title="Curriculum Vitae link"></i>
             </a>
           </li>
         {%- endif -%}

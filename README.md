@@ -11,5 +11,5 @@ bundle exec jekyll serve
 
 To update possible vulnerability issues with dependices using GEM:
 ```
-sudo gem install <package_name>
+bundle update --all
 ```

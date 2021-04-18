@@ -66,4 +66,5 @@ sass:
 plugins_dir:
  - jekyll-seo-tag
 
-gtag: UA-149430375-1
+# gtag: UA-149430375-1
+gtag: G-MG3J0MLQYT

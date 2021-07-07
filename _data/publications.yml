@@ -1,8 +1,26 @@
 - layout: top-middle
+  title: A Shape-Aware Retargeting Approach to Transfer Human Motion and Appearance in Monocular Videos
+  authors: Thiago L Gomes, Renato Martins, João Ferreira, Rafael Azevedo, Guilherme Torres, Erickson R Nascimento
+  pdf: https://link.springer.com/article/10.1007/s11263-021-01471-x
+  project: https://www.verlab.dcc.ufmg.br/retargeting-motion/
+  #video: https://www.youtube.com/watch?v=fGDK6UkKzvA
+  # award: Honorable Mention
+  # award: Best Paper
+
+- layout: top-middle
+  title: Learning to dance A graph convolutional adversarial network to generate realistic dance motions from audio
+  authors: João P Ferreira, Thiago M Coutinho, Thiago L Gomes, José F Neto, Rafael Azevedo, Renato Martins, Erickson R Nascimento
+  pdf: https://www.sciencedirect.com/science/article/pii/S0097849320301436
+  project: https://verlab.github.io/Learning2Dance_CAG_2020/
+  video: https://www.youtube.com/watch?v=fGDK6UkKzvA
+  # award: Honorable Mention
+  # award: Best Paper
+
+- layout: top-middle
   title: Do As I Do Transferring Human Motion and Appearance between Monocular Videos with Spatial and Temporal Constraints
   authors: Thiago L. Gomes, Renato Martins, João P. M. Ferreira, Erickson R. Nascimento
   pdf: http://openaccess.thecvf.com/content_WACV_2020/html/Gomes_Do_As_I_Do_Transferring_Human_Motion_and_Appearance_between_WACV_2020_paper.html
-  project: https://www.verlab.dcc.ufmg.br/portfolio-item/retargeting-motion/
+  project: https://www.verlab.dcc.ufmg.br/retargeting-motion/wacv2020/
   video: https://www.youtube.com/watch?v=d2c3cp-I-u4
   # award: Honorable Mention
   # award: Best Paper
